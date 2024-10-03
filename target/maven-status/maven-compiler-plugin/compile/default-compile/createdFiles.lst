@@ -1,0 +1,17 @@
+com\javaswebservice\Controllers\StudentController.class
+com\javaswebservice\Repositorys\StudentRepositories.class
+com\javaswebservice\Entity\Courses.class
+com\javaswebservice\DTOs\CourseDTO.class
+com\javaswebservice\Controllers\CourseController.class
+com\javaswebservice\Repositorys\RegisteredRepositories.class
+com\javaswebservice\JavaswebserviceApplication.class
+com\javaswebservice\Entity\Students.class
+com\javaswebservice\Entity\Registered.class
+com\javaswebservice\Service\CourseService.class
+com\javaswebservice\Controllers\Homecontroller.class
+com\javaswebservice\Repositorys\CourseRepositories.class
+com\javaswebservice\DTOs\StudentDTO.class
+com\javaswebservice\DTOs\RegisteredDTO.class
+com\javaswebservice\Service\RegisteredService.class
+com\javaswebservice\Service\StudentService.class
+com\javaswebservice\Controllers\RegisteredController.class

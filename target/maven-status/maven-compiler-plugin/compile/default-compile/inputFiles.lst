@@ -1,0 +1,17 @@
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Controllers\CourseController.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Controllers\Homecontroller.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Controllers\RegisteredController.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Controllers\StudentController.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\DTOs\CourseDTO.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\DTOs\RegisteredDTO.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\DTOs\StudentDTO.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Entity\Courses.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Entity\Registered.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Entity\Students.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\JavaswebserviceApplication.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Repositorys\CourseRepositories.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Repositorys\RegisteredRepositories.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Repositorys\StudentRepositories.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Service\CourseService.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Service\RegisteredService.java
+C:\Users\johan\OneDrive\Skrivbord\javaswebservice\src\main\java\com\javaswebservice\Service\StudentService.java
